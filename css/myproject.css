@@ -1,0 +1,29 @@
+.index
+{
+    background-image: url(../images/ancient-bridge-home.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+.nav
+{
+    text-align: center;
+    margin: 50px;
+    color: blueviolet;
+
+}
+.heading
+{
+    text-size-adjust:inherit;
+    text-align: center;
+    margin:80px;
+    text-shadow: 8px 6px 4px grey;
+}
+.desc
+{
+    text-align: center;
+    margin: 100px;
+
+}
