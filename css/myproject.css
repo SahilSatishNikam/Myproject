@@ -1,9 +1,9 @@
-.bg
+.bgimage
 {
-    background-image: url(../images/ancient-bridge-home.jpg) ;
+    margin: 150px;
+    padding: 150px;
     background-size: cover;
     background-position: center;
-    text-align: center;
     background-size: fixed;
 
 }
@@ -18,5 +18,4 @@
 {
     text-align: center;
     margin: 100px;
-
 }
