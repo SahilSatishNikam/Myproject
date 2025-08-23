@@ -1,14 +1,11 @@
-.bgimage
-{
-    margin: 150px;
-    padding: 150px;
-    background-size: cover;
-    background-position: center;
+body{
+    background-image: url("/images/ancient-bridge-home.jpg");
     background-size: fixed;
-
 }
 .heading
 {
+    font: size 100px;;
+    font-style:serif;
     text-size-adjust:inherit;
     text-align: center;
     margin:80px;
